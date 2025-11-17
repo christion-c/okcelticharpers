@@ -73,19 +73,7 @@ Include screenshots or a demo link here if available:
 - npm or yarn
 
 ### Project Structure
-  okcelticharpers/
-├── public/               # Static public assets
-├── src/
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Page-level components
-│   ├── assets/           # Images, icons, fonts
-│   ├── styles/           # CSS or style modules
-│   ├── utils/            # Helper utilities, data functions
-│   └── App.jsx           # Root application component
-├── package.json
-├── vite.config.js
-└── README.md
-
++++
 
 ### Installation
 
